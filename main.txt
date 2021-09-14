@@ -1,1 +1,3 @@
-Hej! Nu håller vi på att lära oss Github
+Hej! Nu håller vi pa att lära oss Github
+
+Nu kommer det mer text!
